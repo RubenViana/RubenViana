@@ -14,7 +14,7 @@
 
 
 🏙️ Póvoa de Varzim, Porto, Portugal <br>
-📖 Studying Informatics and Computing Engineering <br>
+📖 Computer Engineer <br>
 🎓 University of Porto, Portugal <br>
  
 <hr></hr>
